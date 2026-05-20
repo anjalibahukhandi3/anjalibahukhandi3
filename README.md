@@ -49,11 +49,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/AnjaliiBahukhandi/)
 
 
----
 
-![snake gif](https://github.com/anjalibahukhandi3/anjalibahukhandi3/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ⭐ From [anjalibahukhandi3](https://github.com/anjalibahukhandi3)
 
